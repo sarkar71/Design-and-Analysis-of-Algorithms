@@ -1,0 +1,1 @@
+GCD of 5 and 10 is 5
